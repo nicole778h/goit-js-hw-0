@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Parcel template
 
 Acest proiect a fost creat cu ajutorul Parcel. Pentru familiarizare și configurarea funcțiilor suplimentare [consultați documentația](https://parceljs.org/).
@@ -77,3 +78,6 @@ Dacă se deschide o pagină goală, asigură-te că fila `Console` nu conține e
 =======
 # goit-js-hw-0
 >>>>>>> 42bd3044381596189eaa48956b5879bcc3304998
+=======
+
+>>>>>>> 1c8cb57f36679e0b945dc718919ac1ebc0fd07bf
